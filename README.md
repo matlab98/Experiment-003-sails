@@ -1,7 +1,7 @@
 # prueba
 
-a [Sails v1](https://sailsjs.com) application
-sails lift
+a [sails lift](https://sailsjs.com) application
+
 
 ### Links
 
