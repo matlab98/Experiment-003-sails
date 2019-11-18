@@ -1,6 +1,6 @@
 # prueba
 
-a [sails lift](https://sailsjs.com) application
+Para inicializar se usa [sails lift]() 
 
 
 ### Links
